@@ -1,0 +1,4 @@
+PORT=4000
+MONGO_URL=mongodb+srv://lmndang:Blackjack2022@cluster0.0ndx4.mongodb.net/black-jack?retryWrites=true&w=majority
+JWT_SECRET=A?D*G-KaPdSgVkYp3s6v9y$B&E)H+MbQ
+JWT_LIFETIME=1d
